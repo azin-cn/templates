@@ -1,7 +1,7 @@
 ### Projects
 
 - arco-unocss (Arco Simple + UnoCSS)
-- arcofull-unocss (Arco Full + Unocss)
+- arcofull-unocss (Arco Full + UnoCSS)
 
 ```shell
 vite create project-name --template https://github.com/azin-cn/templates/arco-unocss
