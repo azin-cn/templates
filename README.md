@@ -2,7 +2,7 @@
 
 - arco-unocss (Arco Simple + UnoCSS)
 - arcofull-unocss (Arco Full + UnoCSS)
-- applet-taro-unocss (Vue3.2 + Taro + Unocss)
+- applet-taro-unocss (Vue3.2 + Taro + UnoCSS)
 
 ```shell
 vite create project-name --template https://github.com/azin-cn/templates/arco-unocss
