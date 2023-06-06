@@ -4,13 +4,16 @@
 - arcofull-unocss (Arco Full + UnoCSS)
 - applet-taro-unocss (Vue3.2 + Taro + UnoCSS)
 
+### Operations
+
 ```shell
-vite create project-name --template https://github.com/azin-cn/templates/arco-unocss
+git clone https://github.com/azin-cn/templates.git
+```
 
-OR
-vite create project-name --template https://github.com/azin-cn/templates/{project-name}
+Pick the template you want
 
-etc
+```shell
+mv arco-unocss ../
 ```
 
 ### init
